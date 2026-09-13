@@ -1,0 +1,8 @@
+Damage Removal Metrics — image-1
+Mask pixels: 10297 (5.98%)
+
+Metric                           FMM         NS  Notes
+------------------------------------------------------------
+border_mae                    0.6936     0.6735  lower is better
+grad_consistency              9.9065    10.2681  lower is better
+texture_ssim                  0.9557     0.9572  higher is better
